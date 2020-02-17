@@ -1,1 +1,2 @@
-This is my first line git
+This is my first line git.
+This is my second line in git.
